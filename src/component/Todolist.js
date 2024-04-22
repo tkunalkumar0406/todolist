@@ -72,7 +72,7 @@ function TodoList() {
                 <button onClick={() => handleEditTask(index)} style={{color:'orange'}}><img src='images/download.png'style={{width:'28px',height:'15px'}}></img></button>
                 <button onClick={() => handleDeleteTask(index)}style={{color:'orange'}}><img src='images/download.jpeg'style={{width:'28px',height:'15px'}}></img></button>
               </>
-            )}
+            )};oj;ojmpij
           </li>
         ))}
       </ul>
